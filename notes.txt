@@ -1,0 +1,60 @@
+       pep python enhancement protocol
+       w error for checking 
+       warning filter to ignore
+
+    3.9 python -file__ gets absolute path
+
+array.tostring() deprecated
+array.fromstring() dep
+
+new dictionary merge method
+chainMap not ideal
+
+new operator | 
+d1 | d2 
+
+if key appears in both , last wins, left wins ? 
+
+|= update operator 
+
+remove prefix and removesuffix
+
+
+in type annotations,  yyou can use built in types as generics such as list/dict so you can type easier without having to make a parallel type hierarchy by importing capital type
+
+change parser from ll(*) to peg
+parsing expression Grammer parser
+new parser csn look ahead in a recursive pattern so it will be more efficient and not token integer count based
+
+
+new modules 
+Zoneinfo time zone 
+graphlib
+can topological sorting of graph 
+ts = ToTopologicalSorter(graph) 
+
+asyncio changes 
+
+ftp libraries change 
+ip module can manage ipv6 scope
+
+math least common multiplier and 
+greatest common denom of more than 2 numbers 
+
+pending dep warning deo oed ,
+
+parse becomse ast abstract syntax tree
+
+random will only accept none int float string byte and bytearray
+ no longer any hashable
+
+math.factorial will throw error if using a float
+
+array to string prefrr from/yobyte instead
+
+xml:
+elementtree get children change to iter(<tree_var) llist. 
+
+
+asyncio with to aync with lock 
+
